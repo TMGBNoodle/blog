@@ -27,7 +27,7 @@ minima:
   # Generate social links in footer.
   #
   social_links:
-      - { platform: WeHateRabbits,          user_url: "https://WeHateRabbits.org/rabbithater31238" }
+  #    - { platform: WeHateRabbits,          user_url: "https://WeHateRabbits.org/rabbithater31238" }
       - { platform: OnlyFans,               user_url: "https://OnlyFans.Edu/rabbithater69"}
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
