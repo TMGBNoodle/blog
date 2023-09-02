@@ -15,6 +15,6 @@ My biggest struggle was with making changes without breaking everything. I went 
 
 Going deep into the records to find the things I need to change:  
 
-![image](/assets/images/records_collection_old_vintage.jpg)
+![image](\assets\images\records_collection_old_vintage.jpg)
 
 I'm really looking forwards to creating actual functionality in sites. Toggle switches, databases, and content that actually changes through user input on the websites. We've been doing a lot of website coding but not much function coding. Maybe this isn't something we'll be doing, but even so it'll be cool to work with non-profits to integrate whatever they need into websites. Things like the [Hendrix College Arboretum](https://arboretum.hendrix.edu) would be really interesting to put together.
