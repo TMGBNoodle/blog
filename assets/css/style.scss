@@ -1,7 +1,22 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+.warning {
+  background-color: rgb(94, 5, 23);
+  color: rgb(255, 255, 255);
+  margin: 100px;
+  border: 5px rgb(85, 85, 85) solid;
+  padding: 10px;
+}
+
+.authorbox {
+  background-color: rgb(251, 255, 189);
+  margin-right: 500px;
+  margin-left: 40px;
+  border: solid 1px black;
+  padding: 5px;
+}
+
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+   "minima/initialize";

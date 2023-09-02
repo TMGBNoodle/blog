@@ -22,12 +22,14 @@ layout: base
         </time>
       {%- endif -%}
       {%- if page.author -%}
-        Author(s): <br>
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
+        <p class = "authorbox">
+          Author(s): <br> 
+          • {% for author in page.author %}
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+              <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+              {%- if forloop.last == false %}, {% endif -%}
+          {% endfor %}
+        </p>
       {%- endif -%}</p>
   </header>
 
