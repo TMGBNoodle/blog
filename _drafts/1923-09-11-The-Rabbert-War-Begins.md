@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The outbreak of the great war"
+title: "The Outbreak Of The Great War"
 categories: misc
 ---
 
