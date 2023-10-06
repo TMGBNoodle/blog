@@ -6,7 +6,7 @@ author: Tucker Mac
 ---
 
 ## Figuring out style is hard.
-![image]({{"/assets/images/image2.png" | relative_url}})
+![image]({{"/assets/images/FunnyImage.jpg" | relative_url}})
 (This image is unrelated I was just looking for a fitting image and found this and thought it was really funny)
 
 Markdown is an interesting language. As far as I could find there was no way to directly add style to markdown files with things like classes in html. I think I prefer html if only because it's a lot easier to stray from the things it's specifically designed to do. Perhaps I missed something about markdown. That's possible, and even probable. I did a lot of specific googling to find things like [How to add images in markdown](https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown). It took me way too long to get the brackets right. I thought it was ["text"]{link} and was having a bit of a breakdown trying to figure out what was wrong.
